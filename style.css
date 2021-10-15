@@ -1,0 +1,16 @@
+body {
+border:20px;
+    border-color:#1989F0;
+    border-style: solid;
+    text-align: center;
+}
+img{
+width: 500px;
+    height: 500px;
+}
+span img{
+    width:200px;
+    height: 300px;
+    
+}
+     
